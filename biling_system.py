@@ -1,3 +1,5 @@
+print("hola mundo")
+
 from tkinter import*
 import random
 import os
